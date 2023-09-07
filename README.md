@@ -1,2 +1,2 @@
 # qt-python-cadclientes
-Sistema desktop de cadastro de clientes, utilizando Qt para Python.
+Sistema desktop para cadastro de clientes, utilizando Qt Python.
